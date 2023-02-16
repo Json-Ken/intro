@@ -1,0 +1,6 @@
+print("Ken Json Cares")
+print("Hope to all")
+print(100/20)
+print(5*20)
+print(5/3>7-8+6)
+print("Cares for a 1000+")
